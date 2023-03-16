@@ -1,8 +1,8 @@
-#include <stadio.h>
+#include <stdio.h>
 /**
- * main - A program that prints aline  
+ * main - A program that prints a line  
  *
- * return alwyes 0 (success)
+ * return: 0 (success)
  */
 int main(void)
 {
