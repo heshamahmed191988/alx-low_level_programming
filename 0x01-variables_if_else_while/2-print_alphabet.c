@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <time.h>
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
@@ -7,7 +8,7 @@
  *
  * Return: Always 0 (Success)
  */
-char main(void)
+int main(void)
 {
 	char c;
 
